@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin-top: 5%;
+    background-color: teal;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+    font-size: 1.4em;
+    border-radius: 1rem;
+}
+
+#form123 {
+    /* background-color: black;
+    border-radius: 1rem; */
+    display: true;
+}
+
+#gridContainer {
+    background-color: red;
+    color: red;
+}
